@@ -1,0 +1,23 @@
+.white{background-color: #fff !important;}
+.youlo{background-color: #fbc523 !important;}
+.youlo-inner{background-color: #c29b13 !important;}
+.youlo-inner-inner{background-color: #886a10 !important;}
+.gra{background-color: #b7adad !important;}
+.red{background-color: #e94a35 !important;}
+.red-inner{background-color: #af372b !important;}
+.red-inner-inner{background-color: #782922 !important;}
+.grin{background-color: #1e90ff !important;}
+.grin-inner{background-color: #2371bd !important;}
+.grin-inner-inner{background-color: #1a4f85 !important;}
+.grin-02{background-color: #22cb58 !important;}
+.grin-02-inner{background-color: #208f42 !important;}
+.grin-02-inner-inner{background-color: #16652e !important;}
+/* bordor */
+.boder-bottom{border-bottom: 1px solid #000 !important;}
+.boder-top{border-top: 1px solid #000 !important;}
+.boder-left{border-left: 1px solid #000 !important;}
+.boder-right{border-right: 1px solid #000 !important;}
+.boder-bottom-0{border-bottom: 0px !important;}
+.boder-top-0{border-top: 0px !important;}
+.boder-left-0{border-left: 0px !important;}
+.boder-right-0{border-right: 0px !important;}
